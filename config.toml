@@ -1,4 +1,4 @@
-baseurl = "https://nakamura196.github.io/hugo/"
+baseurl = "https://musing-johnson-a1f35a.netlify.app/"
 title = "データ駆動型歴史情報研究基盤の構築"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
