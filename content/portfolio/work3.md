@@ -1,0 +1,17 @@
++++
+# showonlyimage = true
+draft = false
+image = "img/portfolio/3.png"
+date = "2021-05-27"
+title = "琉球国絵図・デジタル展示"
++++
+
+新規公開
+
+<!--more-->
+
+[琉球国絵図・デジタル展示](https://kuniezu.web.app/)
+
+画像共有のための国際規格[IIIF](https://iiif.io/)（International Image Interoperability Framework）とROIS-DS人文学オープンデータ共同利用センター（Center for Open Data in the Humanities / CODH）が提供する[IIIF Curation Platform](http://codh.rois.ac.jp/icp/)を活用しました。
+
+> データ駆動型のシステムを構築する上での、データ（画像、メタデータ）の構造化プロセスに位置付けられます。
