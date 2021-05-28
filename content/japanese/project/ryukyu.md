@@ -3,7 +3,7 @@ title: "琉球国絵図・デジタル展示"
 description: ""
 draft: false
 image : "images/portfolio/ryukyu.jpeg"
-url: "kuniezu.web.app/"
+link: "https://kuniezu.web.app/"
 bg_image: "images/feature-bg.jpg"
 category: "新規"
 information:

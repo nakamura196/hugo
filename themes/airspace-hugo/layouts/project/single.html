@@ -20,8 +20,8 @@
             <li><span>{{ .label }} :</span> <strong>{{ .info | markdownify }}</strong></li>
             {{ end }}
           </ul>
-          {{ with .Params.url }}
-          <a href="https://{{ . | relURL }}" class="btn btn-main animated fadeInUp" style="margin-top: 24px; margin-bottom: 24px;">プロジェクトをみる</a>
+          {{ with .Params.link }}
+          <a href="{{ . | relURL }}" class="btn btn-main animated fadeInUp" style="margin-top: 24px; margin-bottom: 24px;">プロジェクトをみる</a>
           {{ end }}
         </div>
       </div>

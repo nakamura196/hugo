@@ -9,10 +9,10 @@
     <copyright>Copyright &amp;copy; 2021 [Historiographical Institute The University of Tokyo](https://www.hi.u-tokyo.ac.jp/). All Rights Reserved.</copyright><atom:link href="https://musing-johnson-a1f35a.netlify.app/project/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>史料からみる日本の歴史</title>
-      <link>https://musing-johnson-a1f35a.netlify.app/www.hi.u-tokyo.ac.jp/collection/degitalgallary/science/</link>
+      <link>https://musing-johnson-a1f35a.netlify.app/project/science/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://musing-johnson-a1f35a.netlify.app/www.hi.u-tokyo.ac.jp/collection/degitalgallary/science/</guid>
+      <guid>https://musing-johnson-a1f35a.netlify.app/project/science/</guid>
       <description>2005年12月に、日本学術振興会による研究成果の社会還元・普及事業として、「史料からみる日本の歴史」を実施し、高校生の方々に史料やデータベースから歴史を探る楽しみを紹介したサイト「ひらめき☆ときめきサイエンス　史料からみる日本の歴史」を紹介したサイトをリニューアルしました。
 リニューアルにあたり、画像共有のための国際規格IIIF（International Image Interoperability Framework）とプロジェクトドキュメント構築向け静的サイトジェネレータMkDocsを活用しました。
 データ駆動型のシステム構築における、データ（画像、メタデータ）の構造化プロセスに位置付けられます。
@@ -22,10 +22,10 @@
     
     <item>
       <title>時を越えて語るもの―史料と美術の名宝―</title>
-      <link>https://musing-johnson-a1f35a.netlify.app/www.hi.u-tokyo.ac.jp/collection/degitalgallary/100ex/</link>
+      <link>https://musing-johnson-a1f35a.netlify.app/project/100ex/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://musing-johnson-a1f35a.netlify.app/www.hi.u-tokyo.ac.jp/collection/degitalgallary/100ex/</guid>
+      <guid>https://musing-johnson-a1f35a.netlify.app/project/100ex/</guid>
       <description>『大日本史料』等の刊行開始100周年記念事業の一環として、2001年12月11日から02年1月27日まで、東京国立博物館と共催で同館平成館を会場に開催した特別展「時を越えて語るもの―史料と美術の名宝―」を紹介したサイトをリニューアルしました。
 リニューアルにあたり、画像共有のための国際規格IIIF（International Image Interoperability Framework）とプロジェクトドキュメント構築向け静的サイトジェネレータMkDocsを活用しました。
 データ駆動型のシステム構築における、データ（画像、メタデータ）の構造化プロセスに位置付けられます。
@@ -34,10 +34,10 @@
     
     <item>
       <title>琉球国絵図・デジタル展示</title>
-      <link>https://musing-johnson-a1f35a.netlify.app/kuniezu.web.app/</link>
+      <link>https://musing-johnson-a1f35a.netlify.app/project/ryukyu/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://musing-johnson-a1f35a.netlify.app/kuniezu.web.app/</guid>
+      <guid>https://musing-johnson-a1f35a.netlify.app/project/ryukyu/</guid>
       <description>画像共有のための国際規格IIIF（International Image Interoperability Framework）とROIS-DS人文学オープンデータ共同利用センター（Center for Open Data in the Humanities / CODH）が提供するIIIF Curation Platformを活用しました。
 データ駆動型のシステム構築における、データ（画像、メタデータ）の構造化プロセスに位置付けられます。</description>
     </item>

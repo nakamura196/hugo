@@ -3,7 +3,7 @@ title: "史料からみる日本の歴史"
 description: ""
 draft: false
 image : "images/portfolio/science.png"
-url: "www.hi.u-tokyo.ac.jp/collection/degitalgallary/science/"
+link: "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/science/"
 bg_image: "images/feature-bg.jpg"
 category: "リニューアル"
 information:
