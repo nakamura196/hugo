@@ -1,7 +1,7 @@
 ---
 menu:
   main:
-    name: "Accueil"
+    name: "HOME"
     weight: 1
 
 ############################### Banner ##############################
@@ -19,15 +19,25 @@ banner:
 ############################# About #################################
 about:
   enable: true
-  title: "About Us"
-  description: "あいうえお"
-  content: "かきくけこ"
-  image: "images/wrapper-img.png"
+  title: "メンバー"
+  description: ""
+  content: "山田・中村・ほか（前近代日本史情報国際センター）"
+  image: "images/wrapper-img.jpeg"
 
+############################ call to action ###########################
+cta:
+  enable: true
+  bg_image: "images/feature-bg.jpg"
+  title: "We design delightful digital experiences."
+  content: "Read more about what we do and our philosophy of design. Judge for yourself The work and results <br> we’ve achieved for other clients, and meet our highly experienced Team who just love to design."
+  button:
+    enable: true
+    label: "Tell Us Your Story"
+    link: "contact"
 
 ######################### Portfolio ###############################
 portfolio:
-  enable: true
+  enable: false
   bg_image: "images/feature-bg.jpg"
   title: "WE BELIEVE IN GREAT IDEAS"
   content: " Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
@@ -46,14 +56,14 @@ portfolio:
 
 ############################# Service ############################
 service:
-  enable: true
+  enable: false
   # service content comes from "service.md" file
 
 
 ############################ call to action ###########################
 cta:
-  enable: true
-  bg_image: "images/call-to-action-bg.jpg"
+  enable: false
+  bg_image: "images/feature-bg.jpg"
   title: "We design delightful digital experiences."
   content: "Read more about what we do and our philosophy of design. Judge for yourself The work and results <br> we’ve achieved for other clients, and meet our highly experienced Team who just love to design."
   button:
@@ -63,7 +73,7 @@ cta:
 
 ############################# Funfacts ###############################
 funfacts:
-  enable: true
+  enable: false
   title: "Fun Facts About Us"
   description: "'Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, <br> there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics'"
   funfact_item:

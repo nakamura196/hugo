@@ -14,6 +14,7 @@ disqusShortname = "" # Get your shortname from here: https://disqus.com/profile/
 # Measurement ID (G-XXXXXXX) to enable Google Analytics
 googleAnalytics = ""
 
+defaultContentLanguage = "ja"
 
 ################################# Output formats ##############################
 # Documentation: https://gohugo.io/templates/output-formats/#customizing-output-formats
@@ -38,7 +39,7 @@ ordered = false
 ################################# Default parameters ##########################
 [params]
 logo = "images/logo.png"
-logo_width = "150px"
+# logo_width = "150px"
 # OpenGraph / Twitter Card metadata
 description = "This is meta description"
 author = "Themefisher"
@@ -179,44 +180,25 @@ languageName = "Japanese"
 languageCode = "ja-JP"
 contentDir = "content/japanese"
 weight = 1
-copyright = "Copyright &copy; 2021 [Themefisher](https://themefisher.com). Tous droits réservés."
+copyright = "Copyright &copy; 2021 [Historiographical Institute The University of Tokyo](https://www.hi.u-tokyo.ac.jp/). All Rights Reserved."
 
 # Main menu
 # NOTE: Leaf entries linking to content should be defined in the content file's respective front matter.
-[[languages.ja.menu.main]]
-hasChildren = true
-weight = 5
-name = "Plus"
 
 # Footer menu
 [[languages.ja.menu.footer]]
-name = "このサイトについて"
+name = "About"
 URL = "about"
 weight = 1
 
 [[languages.ja.menu.footer]]
-name = "Projet"
+name = "プロジェクト"
 URL = "project"
 weight = 2
 
 [[languages.ja.menu.footer]]
-name = "Service"
-URL = "service"
-weight = 3
-
-[[languages.ja.menu.footer]]
-name = "Tarification"
-URL = "pricing"
-weight = 4
-
-[[languages.ja.menu.footer]]
-name = "Questions fréquentes"
-URL = "faq"
-weight = 5
-
-[[languages.ja.menu.footer]]
 name = "Contact"
-URL = "contact"
+URL = "https://www.hi.u-tokyo.ac.jp"
 weight = 6
 
 ################################# English translation #########################
