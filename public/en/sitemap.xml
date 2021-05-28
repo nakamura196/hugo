@@ -2,469 +2,159 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://musing-johnson-a1f35a.netlify.app/faq/</loc>
+    <loc>https://musing-johnson-a1f35a.netlify.app/en/faq/</loc>
     <lastmod>2021-04-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://musing-johnson-a1f35a.netlify.app/ja/faq/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://musing-johnson-a1f35a.netlify.app/faq/"
-                />
   </url><url>
-    <loc>https://musing-johnson-a1f35a.netlify.app/</loc>
+    <loc>https://musing-johnson-a1f35a.netlify.app/en/</loc>
     <lastmod>2021-04-01T00:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://musing-johnson-a1f35a.netlify.app/ja/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
                 href="https://musing-johnson-a1f35a.netlify.app/"
                 />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://musing-johnson-a1f35a.netlify.app/en/"
+                />
   </url><url>
-    <loc>https://musing-johnson-a1f35a.netlify.app/categories/</loc>
+    <loc>https://musing-johnson-a1f35a.netlify.app/en/categories/</loc>
     <lastmod>2021-04-01T00:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://musing-johnson-a1f35a.netlify.app/ja/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
                 href="https://musing-johnson-a1f35a.netlify.app/categories/"
                 />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://musing-johnson-a1f35a.netlify.app/en/categories/"
+                />
   </url><url>
-    <loc>https://musing-johnson-a1f35a.netlify.app/tags/how-to/</loc>
+    <loc>https://musing-johnson-a1f35a.netlify.app/en/tags/how-to/</loc>
+    <lastmod>2021-04-01T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>https://musing-johnson-a1f35a.netlify.app/en/blog/</loc>
+    <lastmod>2021-04-01T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>https://musing-johnson-a1f35a.netlify.app/en/blog/date-i18n/</loc>
+    <lastmod>2021-04-01T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>https://musing-johnson-a1f35a.netlify.app/en/tags/</loc>
     <lastmod>2021-04-01T00:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://musing-johnson-a1f35a.netlify.app/ja/tags/how-to/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://musing-johnson-a1f35a.netlify.app/tags/how-to/"
-                />
-  </url><url>
-    <loc>https://musing-johnson-a1f35a.netlify.app/blog/</loc>
-    <lastmod>2021-04-01T00:00:00+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://musing-johnson-a1f35a.netlify.app/ja/blog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://musing-johnson-a1f35a.netlify.app/blog/"
-                />
-  </url><url>
-    <loc>https://musing-johnson-a1f35a.netlify.app/blog/date-i18n/</loc>
-    <lastmod>2021-04-01T00:00:00+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://musing-johnson-a1f35a.netlify.app/ja/blog/date-i18n/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://musing-johnson-a1f35a.netlify.app/blog/date-i18n/"
-                />
-  </url><url>
-    <loc>https://musing-johnson-a1f35a.netlify.app/tags/</loc>
-    <lastmod>2021-04-01T00:00:00+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://musing-johnson-a1f35a.netlify.app/ja/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
                 href="https://musing-johnson-a1f35a.netlify.app/tags/"
                 />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://musing-johnson-a1f35a.netlify.app/en/tags/"
+                />
   </url><url>
-    <loc>https://musing-johnson-a1f35a.netlify.app/categories/technical-assistance/</loc>
+    <loc>https://musing-johnson-a1f35a.netlify.app/en/categories/technical-assistance/</loc>
     <lastmod>2021-04-01T00:00:00+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://musing-johnson-a1f35a.netlify.app/ja/categories/technical-assistance/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://musing-johnson-a1f35a.netlify.app/categories/technical-assistance/"
-                />
   </url><url>
-    <loc>https://musing-johnson-a1f35a.netlify.app/tags/technology/</loc>
+    <loc>https://musing-johnson-a1f35a.netlify.app/en/tags/technology/</loc>
     <lastmod>2021-04-01T00:00:00+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://musing-johnson-a1f35a.netlify.app/ja/tags/technology/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://musing-johnson-a1f35a.netlify.app/tags/technology/"
-                />
   </url><url>
-    <loc>https://musing-johnson-a1f35a.netlify.app/tags/advice/</loc>
+    <loc>https://musing-johnson-a1f35a.netlify.app/en/tags/advice/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://musing-johnson-a1f35a.netlify.app/ja/tags/advice/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://musing-johnson-a1f35a.netlify.app/tags/advice/"
-                />
   </url><url>
-    <loc>https://musing-johnson-a1f35a.netlify.app/tags/ai/</loc>
+    <loc>https://musing-johnson-a1f35a.netlify.app/en/tags/ai/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://musing-johnson-a1f35a.netlify.app/ja/tags/ai/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://musing-johnson-a1f35a.netlify.app/tags/ai/"
-                />
   </url><url>
-    <loc>https://musing-johnson-a1f35a.netlify.app/tags/android/</loc>
+    <loc>https://musing-johnson-a1f35a.netlify.app/en/tags/android/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://musing-johnson-a1f35a.netlify.app/ja/tags/android/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://musing-johnson-a1f35a.netlify.app/tags/android/"
-                />
   </url><url>
-    <loc>https://musing-johnson-a1f35a.netlify.app/categories/artificial-intelligence/</loc>
+    <loc>https://musing-johnson-a1f35a.netlify.app/en/categories/artificial-intelligence/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://musing-johnson-a1f35a.netlify.app/ja/categories/artificial-intelligence/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://musing-johnson-a1f35a.netlify.app/categories/artificial-intelligence/"
-                />
   </url><url>
-    <loc>https://musing-johnson-a1f35a.netlify.app/tags/company/</loc>
+    <loc>https://musing-johnson-a1f35a.netlify.app/en/tags/company/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://musing-johnson-a1f35a.netlify.app/ja/tags/company/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://musing-johnson-a1f35a.netlify.app/tags/company/"
-                />
   </url><url>
-    <loc>https://musing-johnson-a1f35a.netlify.app/categories/company-news/</loc>
+    <loc>https://musing-johnson-a1f35a.netlify.app/en/categories/company-news/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://musing-johnson-a1f35a.netlify.app/ja/categories/company-news/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://musing-johnson-a1f35a.netlify.app/categories/company-news/"
-                />
   </url><url>
-    <loc>https://musing-johnson-a1f35a.netlify.app/blog/blog-post-1/</loc>
+    <loc>https://musing-johnson-a1f35a.netlify.app/en/blog/blog-post-1/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://musing-johnson-a1f35a.netlify.app/ja/blog/blog-post-1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://musing-johnson-a1f35a.netlify.app/blog/blog-post-1/"
-                />
   </url><url>
-    <loc>https://musing-johnson-a1f35a.netlify.app/blog/blog-post-2/</loc>
+    <loc>https://musing-johnson-a1f35a.netlify.app/en/blog/blog-post-2/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://musing-johnson-a1f35a.netlify.app/ja/blog/blog-post-2/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://musing-johnson-a1f35a.netlify.app/blog/blog-post-2/"
-                />
   </url><url>
-    <loc>https://musing-johnson-a1f35a.netlify.app/blog/blog-post-3/</loc>
+    <loc>https://musing-johnson-a1f35a.netlify.app/en/blog/blog-post-3/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://musing-johnson-a1f35a.netlify.app/ja/blog/blog-post-3/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://musing-johnson-a1f35a.netlify.app/blog/blog-post-3/"
-                />
   </url><url>
-    <loc>https://musing-johnson-a1f35a.netlify.app/blog/blog-post-4/</loc>
+    <loc>https://musing-johnson-a1f35a.netlify.app/en/blog/blog-post-4/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://musing-johnson-a1f35a.netlify.app/ja/blog/blog-post-4/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://musing-johnson-a1f35a.netlify.app/blog/blog-post-4/"
-                />
   </url><url>
-    <loc>https://musing-johnson-a1f35a.netlify.app/blog/blog-post-5/</loc>
+    <loc>https://musing-johnson-a1f35a.netlify.app/en/blog/blog-post-5/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://musing-johnson-a1f35a.netlify.app/ja/blog/blog-post-5/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://musing-johnson-a1f35a.netlify.app/blog/blog-post-5/"
-                />
   </url><url>
-    <loc>https://musing-johnson-a1f35a.netlify.app/blog/blog-post-6/</loc>
+    <loc>https://musing-johnson-a1f35a.netlify.app/en/blog/blog-post-6/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://musing-johnson-a1f35a.netlify.app/ja/blog/blog-post-6/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://musing-johnson-a1f35a.netlify.app/blog/blog-post-6/"
-                />
   </url><url>
-    <loc>https://musing-johnson-a1f35a.netlify.app/categories/legacy-support/</loc>
+    <loc>https://musing-johnson-a1f35a.netlify.app/en/categories/legacy-support/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://musing-johnson-a1f35a.netlify.app/ja/categories/legacy-support/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://musing-johnson-a1f35a.netlify.app/categories/legacy-support/"
-                />
   </url><url>
-    <loc>https://musing-johnson-a1f35a.netlify.app/tags/mechine/</loc>
+    <loc>https://musing-johnson-a1f35a.netlify.app/en/tags/mechine/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://musing-johnson-a1f35a.netlify.app/ja/tags/mechine/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://musing-johnson-a1f35a.netlify.app/tags/mechine/"
-                />
   </url><url>
-    <loc>https://musing-johnson-a1f35a.netlify.app/tags/news/</loc>
+    <loc>https://musing-johnson-a1f35a.netlify.app/en/tags/news/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://musing-johnson-a1f35a.netlify.app/ja/tags/news/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://musing-johnson-a1f35a.netlify.app/tags/news/"
-                />
   </url><url>
-    <loc>https://musing-johnson-a1f35a.netlify.app/tags/retro/</loc>
+    <loc>https://musing-johnson-a1f35a.netlify.app/en/tags/retro/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+  </url><url>
+    <loc>https://musing-johnson-a1f35a.netlify.app/en/message_sent/</loc>
+  </url><url>
+    <loc>https://musing-johnson-a1f35a.netlify.app/en/about/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://musing-johnson-a1f35a.netlify.app/ja/tags/retro/"
+                href="https://musing-johnson-a1f35a.netlify.app/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://musing-johnson-a1f35a.netlify.app/tags/retro/"
+                href="https://musing-johnson-a1f35a.netlify.app/en/about/"
                 />
   </url><url>
-    <loc>https://musing-johnson-a1f35a.netlify.app/message_sent/</loc>
+    <loc>https://musing-johnson-a1f35a.netlify.app/en/author/</loc>
+  </url><url>
+    <loc>https://musing-johnson-a1f35a.netlify.app/en/contact/</loc>
+  </url><url>
+    <loc>https://musing-johnson-a1f35a.netlify.app/en/author/john-doe/</loc>
+  </url><url>
+    <loc>https://musing-johnson-a1f35a.netlify.app/en/author/mark-dinn/</loc>
+  </url><url>
+    <loc>https://musing-johnson-a1f35a.netlify.app/en/pricing/</loc>
+  </url><url>
+    <loc>https://musing-johnson-a1f35a.netlify.app/en/project/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://musing-johnson-a1f35a.netlify.app/ja/message_sent/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://musing-johnson-a1f35a.netlify.app/message_sent/"
-                />
-  </url><url>
-    <loc>https://musing-johnson-a1f35a.netlify.app/about/</loc>
-  </url><url>
-    <loc>https://musing-johnson-a1f35a.netlify.app/author/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://musing-johnson-a1f35a.netlify.app/ja/author/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://musing-johnson-a1f35a.netlify.app/author/"
-                />
-  </url><url>
-    <loc>https://musing-johnson-a1f35a.netlify.app/contact/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://musing-johnson-a1f35a.netlify.app/ja/contact/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://musing-johnson-a1f35a.netlify.app/contact/"
-                />
-  </url><url>
-    <loc>https://musing-johnson-a1f35a.netlify.app/author/john-doe/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://musing-johnson-a1f35a.netlify.app/ja/author/john-doe/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://musing-johnson-a1f35a.netlify.app/author/john-doe/"
-                />
-  </url><url>
-    <loc>https://musing-johnson-a1f35a.netlify.app/author/mark-dinn/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://musing-johnson-a1f35a.netlify.app/ja/author/mark-dinn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://musing-johnson-a1f35a.netlify.app/author/mark-dinn/"
-                />
-  </url><url>
-    <loc>https://musing-johnson-a1f35a.netlify.app/pricing/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://musing-johnson-a1f35a.netlify.app/ja/pricing/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://musing-johnson-a1f35a.netlify.app/pricing/"
-                />
-  </url><url>
-    <loc>https://musing-johnson-a1f35a.netlify.app/project/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://musing-johnson-a1f35a.netlify.app/ja/project/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
                 href="https://musing-johnson-a1f35a.netlify.app/project/"
                 />
-  </url><url>
-    <loc>https://musing-johnson-a1f35a.netlify.app/project/rio-furniture-1/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://musing-johnson-a1f35a.netlify.app/ja/project/rio-furniture-1/"
-                />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://musing-johnson-a1f35a.netlify.app/project/rio-furniture-1/"
+                href="https://musing-johnson-a1f35a.netlify.app/en/project/"
                 />
   </url><url>
-    <loc>https://musing-johnson-a1f35a.netlify.app/project/rio-furniture-2/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://musing-johnson-a1f35a.netlify.app/ja/project/rio-furniture-2/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://musing-johnson-a1f35a.netlify.app/project/rio-furniture-2/"
-                />
+    <loc>https://musing-johnson-a1f35a.netlify.app/en/project/rio-furniture-1/</loc>
   </url><url>
-    <loc>https://musing-johnson-a1f35a.netlify.app/project/rio-furniture-3/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://musing-johnson-a1f35a.netlify.app/ja/project/rio-furniture-3/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://musing-johnson-a1f35a.netlify.app/project/rio-furniture-3/"
-                />
+    <loc>https://musing-johnson-a1f35a.netlify.app/en/project/rio-furniture-2/</loc>
   </url><url>
-    <loc>https://musing-johnson-a1f35a.netlify.app/project/rio-furniture-4/</loc>
+    <loc>https://musing-johnson-a1f35a.netlify.app/en/project/rio-furniture-3/</loc>
   </url><url>
-    <loc>https://musing-johnson-a1f35a.netlify.app/project/rio-furniture-5/</loc>
+    <loc>https://musing-johnson-a1f35a.netlify.app/en/project/rio-furniture-4/</loc>
   </url><url>
-    <loc>https://musing-johnson-a1f35a.netlify.app/project/rio-furniture-6/</loc>
+    <loc>https://musing-johnson-a1f35a.netlify.app/en/project/rio-furniture-5/</loc>
   </url><url>
-    <loc>https://musing-johnson-a1f35a.netlify.app/service/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://musing-johnson-a1f35a.netlify.app/ja/service/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://musing-johnson-a1f35a.netlify.app/service/"
-                />
+    <loc>https://musing-johnson-a1f35a.netlify.app/en/project/rio-furniture-6/</loc>
+  </url><url>
+    <loc>https://musing-johnson-a1f35a.netlify.app/en/service/</loc>
   </url>
 </urlset>
