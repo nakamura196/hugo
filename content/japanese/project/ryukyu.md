@@ -3,6 +3,7 @@ title: "琉球国絵図・デジタル展示"
 description: ""
 draft: false
 image : "images/portfolio/ryukyu.jpeg"
+url: "kuniezu.web.app/"
 bg_image: "images/feature-bg.jpg"
 category: "新規"
 information:
@@ -11,8 +12,6 @@ information:
   - label : "協力者"
     info : "黒嶋 / 井上"
 ---
-
-> [https://kuniezu.web.app/](https://kuniezu.web.app/)
 
 画像共有のための国際規格[IIIF](https://iiif.io/)（International Image Interoperability Framework）とROIS-DS人文学オープンデータ共同利用センター（Center for Open Data in the Humanities / CODH）が提供する[IIIF Curation Platform](http://codh.rois.ac.jp/icp/)を活用しました。
 
