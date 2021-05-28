@@ -1,6 +1,6 @@
 ---
 title: "琉球国絵図・デジタル展示"
-description: "新規"
+description: ""
 draft: false
 image : "images/portfolio/ryukyu.jpeg"
 bg_image: "images/feature-bg.jpg"

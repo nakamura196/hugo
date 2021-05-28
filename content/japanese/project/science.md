@@ -1,6 +1,6 @@
 ---
 title: "史料からみる日本の歴史"
-description: "リニューアル"
+description: ""
 draft: false
 image : "images/portfolio/science.png"
 bg_image: "images/feature-bg.jpg"

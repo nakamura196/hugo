@@ -1,7 +1,7 @@
 ---
 title: "この事業について"
 description: ""
-lastmod: 2021-04-02
+lastmod: 2021-05-28
 bg_image: "images/feature-bg.jpg"
 layout: "faq"
 draft: false
@@ -11,55 +11,55 @@ menu:
     weight: 4
 ---
 
-#### h4h4
+史料編纂所が150年にわたって蓄積した日本史の研究資源を、Society5.0に対応し、さらに100年にわたって維持・発展させるための歴史情報研究基盤構築を行います。国際的に卓越した日本史の情報研究拠点の拡充を行い、情報学とコラボレーションして人文系分野のさらなる活性化や学術の多様性を支える基盤の強化を実現していきます。また研究活動を通じて若手研究者を高度な専門性を持つ研究者に育成し、歴史データの発信によって学術成果の社会への還元を目指します。
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia ullam sint quas pariatur ipsam nemo
-repellendus suscipit quod accusantium numquam tempora assumenda sequi, velit voluptatem soluta voluptatibus
-nesciunt ducimus iure. Excepturi voluptatum ullam tenetur perspiciatis alias delectus beatae voluptatibus
-magni facere aspernatur, qui, quas nesciunt blanditiis assumenda a expedita accusantium quos consectetur neque
-nemo. Necessitatibus est quod quo deserunt, dicta aut voluptatem blanditiis, alias quos sed vel unde enim
-dolore aliquam quis reiciendis qui vitae reprehenderit. Similique nemo accusamus, vel possimus error cumque
-quas, tempora repellendus velit, unde cupiditate impedit deserunt fugit labore et nostrum sapiente est
-obcaecati maiores voluptates.
+<br/>
 
-#### 1.Overview
+#### 概要
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas iusto, alias, tempora fuga quam eveniet
-neque excepturi aliquid. Eligendi, mollitia.
+史料編纂所におけるSHIPSデータベースは、古代から明治維新までの日本史の史料情報・歴史情報を対象にした、史料目録DB・史料全文DB・史料画像DBあるいはくずし字解読字典・歴史絵引きなどのツール型DBなど、40種ほどの各種データベース（データ総数560万件）と約2000万件（注：2020年3月時点）の史料画像を有するデジタルアーカイヴです。人文系では屈指の日本史データベースとして、文理融合型情報学研究を展開しています。かかる実績が評価され、2019年には[JSPSの人文学・社会科学データインフラストラクチャー推進事業](https://www.jsps.go.jp/j-di/index.html)の拠点に認定され、人文系唯一の拠点として委嘱事業を実施しています。
 
-#### 2. Data We Collect
+本プロジェクトは、これまでの史料編纂所の取り組みを継承・発展させ、150年の蓄積を次の100年を超えて持続することが可能な情報環境基盤の整備を目指します。下記に示すように、データの長期的な蓄積・アクセスを可能とするデータリポジトリ構築、さらに蓄積したデータの最大限の利活用をはかるデータ駆動型検索システムの構築を進め、国際発信力を抜本的に強化し、Society5.0時代にふさわしい歴史情報学研究の基盤構築に取り組みます。
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias, earum, quibusdam? Accusantium, eaque at
-quasi dicta quis consectetur. Temporibus, natus illo quasi, magni neque fugiat ducimus omnis, ab ullam
-reprehenderit obcaecati. Inventore ut nisi repellendus dolores odit. Ea molestias perspiciatis enim, tenetur
-impedit suscipit quidem optio asperiores quibusdam. Minus, vel.
+<table style="border: 0px">
+<tr>
+<td>
+<figure>
+<img style="padding: 16px;" src="https://www.hi.u-tokyo.ac.jp/cdps/datadriven/fig1-j.png"/>
+<figcaption style="text-align: center;">データ駆動型検索システムの構築の概要</figcaption>
+</figure>
+</td>
+<td>
+<figure>
+<img style="padding: 16px;" src="https://www.hi.u-tokyo.ac.jp/cdps/datadriven/fig2-j.png"/>
+<figcaption style="text-align: center;">人物関係の可視化例</figcaption>
+</figure>
+</td>
+</tr>
+</table>
 
-#### 3. How We Use Data
+<br/>
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellendus repellat id, laboriosam ipsa
-repudiandae quisquam, suscipit officiis, praesentium itaque facilis distinctio dolorum. Velit reiciendis
-libero laudantium corporis, delectus impedit sunt.
+#### 1. 長期保存・長期利用のための史料データリポジトリ構築
 
-#### 4. How We Disclose Data.
+史料編纂所が長年蓄積した研究資源の継承と活用をはかり、日本史史料研究資源化の一層の推進をはかります。具体的には、史料ごとの史料目録、史料画像、来歴情報、配置場所、アクセス権、IDなどをパッケージ化し、さらに図録用撮影画像・顕微鏡撮影画像・くずし字画像など派生して生成されたデータを関連づけ、かつ、OAIS(Open Archival Information System)などの国際標準規格に照らし合わせてゆくことで汎用化された史料データリポジトリを実現します。これにより、史料データそのものに加えて，その史料データが何であるかを示すデータも将来に亘って保存していくことで、史料データは恒久的に機能することが可能であると考えています。
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tenetur itaque ut culpa totam ratione! Iste
-possimus beatae consequuntur, fugit iusto fugiat id, dignissimos culpa obcaecati voluptatum omnis est
-quibusdam quos, et illo rerum quae dolorem error quis suscipit asperiores facilis? Ratione, facere architecto
-modi incidunt voluptatibus iusto maiores, at libero accusamus aliquam dolor minus autem possimus illum maxime,
-fugit fuga! A libero adipisci molestias praesentium distinctio odio, alias accusantium, dolorum itaque,
-necessitatibus labore! Facilis explicabo pariatur laudantium quibusdam consequatur ex odio labore sequi animi.
-Voluptatem impedit, maiores, cupiditate, iure possimus neque quaerat natus aut minima quibusdam tempora
-magnam, vero itaque!
+<br/>
 
-#### 5. Security
+#### 2. データ駆動型検索システムの構築
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae blanditiis quod saepe, inventore ipsum sint
-cum iste quae ratione nobis laborum minima autem totam similique, quia neque deleniti! Provident, suscipit.
+史料に関するあるデータから、次々と数珠つなぎに関連するデータを提示していく方法、たとえば、ユーザインターフェースに制限されない、より柔軟な検索を実行するための環境整備および実装していきます。具体的にはWeb API(Application Programming Interface)の整備を行うことで、人だけでなく、機械も利用可能・可読となるデータ検索・提示方法を取り入れ、データ駆動型検索システムの実現を目指します。
 
-#### 6. Advertising.
+史料編纂所では、史料画像の国際標準ともいえるIIIF(International Image Interoperability Framework)を導入して史料画像のオープンデータ化を進め、検索・提示されるデータの柔軟な利活用を可能とするオープンサイエンスを先導的に推進しています。史料編纂所がかかえる史料データを活用するために、1)AIによる文字認識のためのくずし字学習データセットの構築、2)文字認識AIによる構造化テキストの自動生成、3)地名・人名等のシソーラス化・オントロジ化、といったAIや機械学習によるサポート機能を実現するための方法論について検討・実現していくことで、新しい時代に対応した人文情報学研究を切り開きたいと考えています。
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus, eaque repellendus placeat aperiam fugit.
-Quod inventore quis quos, molestias nostrum tempora quae adipisci dolorem ipsam repellendus officia,
-voluptatem assumenda porro possimus, eius eum enim qui natus! Quas numquam voluptas reiciendis eveniet ab at
-provident omnis mollitia ipsa. Asperiores vero rem cum minima voluptas, vitae magni accusantium quae. Sed,
-expedita, ad.
+<br/>
+
+#### 3. 国際発信力の抜本的強化
+
+史料編纂所のウェブサイトや各種データベースへの総アクセス数は年間2500万件近くに及んでいます（2019年度）。海外からのアクセスも多く、海外における日本学研究に対する情報発信も大切です。史料編纂所では幕末維新史データベースの英訳化や英訳グロッサリー研究に取り組んでおり、かかる研究プロジェクトとも連携し、さらに英文サイトの構築に取り組んで国際発信力を強化してゆきます。世界へ向けた発信力を強化し、日本史のみならず人文学におけるデータインフラストラクチャーのモデルを国際的にアピールしてゆきます。
+
+本事業は、日本史の史料(文化遺産)情報の国際発信を通じて、世界中の人々へ生涯学習の機会を促進し、文化面での持続可能で強靭なインフラストラクチャー整備やグローバルパートナーシップを奨励・推進してゆきます。
+
+<br/><br/>
+
+本プロジェクトは、前近代日本史情報国際センターを中核に、JSPSの人文学・社会科学データインフラストラクチャー推進事業人文学拠点（史料編纂所および大学院人文社会系研究科附属次世代人文学開発センター人文情報学部門）などのプロジェクトとも連携しながら進めていきます。実施期間は2021年度〜2025年度を予定しています。
