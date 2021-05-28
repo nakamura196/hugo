@@ -64,9 +64,39 @@
                 />
   </url><url>
     <loc>https://musing-johnson-a1f35a.netlify.app/project/science/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://musing-johnson-a1f35a.netlify.app/en/project/science/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://musing-johnson-a1f35a.netlify.app/project/science/"
+                />
   </url><url>
     <loc>https://musing-johnson-a1f35a.netlify.app/project/100ex/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://musing-johnson-a1f35a.netlify.app/en/project/100ex/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://musing-johnson-a1f35a.netlify.app/project/100ex/"
+                />
   </url><url>
     <loc>https://musing-johnson-a1f35a.netlify.app/project/ryukyu/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://musing-johnson-a1f35a.netlify.app/en/project/ryukyu/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://musing-johnson-a1f35a.netlify.app/project/ryukyu/"
+                />
   </url>
 </urlset>

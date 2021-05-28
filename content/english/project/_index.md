@@ -1,10 +1,10 @@
 ---
-title: "Our Project"
-description: "this is meta description"
+title: "プロジェクト"
+description: "本事業で取り組んでいるプロジェクトの一覧です。"
 draft: false
 bg_image: "images/feature-bg.jpg"
 menu:
   main:
-    name: "Project"
+    name: "プロジェクト"
     weight: 3
 ---

@@ -9,8 +9,8 @@ banner:
   enable: true
   bg_image: "images/slider-bg.jpg"
   bg_overlay: true
-  title: "A Digital Marketing <br/> & Design Agency"
-  content: "We love the Web and the work we do.We work closely with our clients to deliver  the best possible solutions for their needs"
+  title: "Construction of data-driven historical information research infrastructure"
+  content: ""
   button:
     enable: true
     label: "Discover Our Project"
